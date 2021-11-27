@@ -1,4 +1,4 @@
-# Omnifood
+# Omnifood -UI
 
 ## About Omnifood
 
